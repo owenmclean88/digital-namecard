@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:owen.mclean@aupsort.gov.au
 TEL;type=WORK;type=VOICE:+61 423 777 551
 item1.ADR;type=WORK;type=pref:;;23/535 Bourke Street\nMelbourne\, VIC;;;3000;Australia
 item1.X-ABADR:sg
-item2.URL;type=pref:ais.gov.au
+item2.URL;type=pref:www.linkedin.com/in/mcleanowen
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
