@@ -145,21 +145,21 @@ img.profile-pic {
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: #ffffff;
     font-size: 20px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
     font-weight: 200;
-    color: #333333;
+    color: #ffffff;
     font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #ededed;
     font-size: 12px;
 }
 
@@ -177,7 +177,7 @@ img.profile-pic {
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: 400;
 }
 
 @media screen and (max-width: 700px) {
