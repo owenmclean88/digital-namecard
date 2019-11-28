@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+FN: Owen McLean 
+ORG: Australian Institute of Sport;
+TITLE:Technical Analyst\nTechnology and Innovation, Athlete Management System
+EMAIL;type=INTERNET;type=WORK;type=pref:owen.mclean@aupsort.gov.au
+TEL;type=WORK;type=VOICE:+61 423 777 551
+item1.ADR;type=WORK;type=pref:;;23/535 Bourke Street\nMelbourne\, VIC;;;3000;Australia
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:ais.gov.au
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
